@@ -295,6 +295,10 @@ p {
 }
 
 /* Performance Section */
+.performance-sec .performance h2 span {
+    top: -5px;
+    right: -20px;
+}
 /* Performance Section */
 
 /* Service Section */
@@ -698,6 +702,7 @@ p {
 
     .case-nav .nav-link{
         font-size: 14px;
+        padding: 0px 5px !important;
     }
     .btnp-hide {
         display: none;
