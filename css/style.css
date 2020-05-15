@@ -559,6 +559,10 @@ p {
     color: #fff !important;
 }
 
+.contact-sec form textarea::placeholder {
+    color: #fff !important;
+}
+
 /* Blog Section */
 .blog-sec{
     background-color: #fafafa;
